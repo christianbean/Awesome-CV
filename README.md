@@ -1,16 +1,18 @@
-# Awesome CV [![Example](https://img.shields.io/badge/example-pdf-green.svg)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)
+<img alt="AwesomeCV" width="200px" height="200px" align="left" src="https://github.com/posquit0/Awesome-CV/raw/master/icon.png" />
 
+## **Awesome CV**
+> LaTeX template for your outstanding job application
 
-[**Awesome CV**](https://github.com/posquit0/Awesome-CV) is LaTeX template for a **CV(Curriculum Vitae)**, **Résumé** or **Cover Letter** inspired by [Fancy CV](https://www.sharelatex.com/templates/cv-or-resume/fancy-cv). It is easy to customize your own template, especially since it is really written by a clean, semantic markup.
+<br />
 
+[![CircleCI](https://circleci.com/gh/posquit0/Awesome-CV.svg?style=svg)](https://circleci.com/gh/posquit0/Awesome-CV)
+[![Example](https://img.shields.io/badge/example-pdf-green.svg)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)
 
-## Table of contents
+<br />
 
-* [Preview](#preview)
-* [Quick Start](#quick-start)
-* [How to Use](#how-to-use)
-* [Credit](#credit)
-* [Contact](#contact)
+## <a name="what-is-awesomecv"></a>What is Awesome CV?
+
+**Awesome CV** is LaTeX template for a **CV(Curriculum Vitae)**, **Résumé** or **Cover Letter** inspired by [Fancy CV](https://www.sharelatex.com/templates/cv-or-resume/fancy-cv). It is easy to customize your own template, especially since it is really written by a clean, semantic markup.
 
 
 ## <a name="preview"></a>Preview
@@ -19,15 +21,17 @@
 
 You can see [PDF](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)
 
-![Résumé(Page 1)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume-0.png)
-![Résumé(Page 2)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume-1.png)
+| Page. 1 | Page. 2 |
+|:---:|:---:|
+| [![Résumé](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume-0.png)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)  | [![Résumé](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume-1.png)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf) |
 
 #### Cover Letter
 
 You can see [PDF](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter.pdf)
 
-![Cover Letter(Traditional)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter-0.png)
-![Cover Letter(Awesome)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter-1.png)
+| Without Sections | With Sections |
+|:---:|:---:|
+| [![Cover Letter(Traditional)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter-0.png)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter.pdf)  | [![Cover Letter(Awesome)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter-1.png)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter.pdf) |
 
 
 ## <a name="quick-start">Quick Start
