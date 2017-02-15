@@ -1,0 +1,10 @@
+# Fdb version 3
+["pdflatex"] 1487164262 "education.tex" "education.pdf" "education" 1487164262
+  "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
+  "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1136768653 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
+  "/usr/local/texlive/2016/texmf-var/web2c/luatex/lualatex.fmt" 1478268321 1200790 6bca6191ac806d5ec28b017925c0a551 ""
+  "education.aux" 1487163820 8 a94a2480d3289e625eea47cd1b285758 ""
+  "education.tex" 1487164229 2071 6fe8393be89ff29541a52611c9be0970 ""
+  (generated)
+  "education.pdf"
+  "education.log"
