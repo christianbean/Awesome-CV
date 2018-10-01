@@ -22,3 +22,15 @@
 ## Mac OS X metadata files:
 *.DS_Store
 
+
+*.fdb_latexmk
+
+*.fdb_latexmk
+
+*.gz
+
+*.gz
+
+*.fdb_latexmk
+
+*.gz
