@@ -34,3 +34,10 @@
 *.fdb_latexmk
 
 *.gz
+*.gz
+*.fdb_latexmk
+*.cls
+*.gz
+*.gz
+mycv/cv.synctex.gz
+mycv/cv.fdb_latexmk
