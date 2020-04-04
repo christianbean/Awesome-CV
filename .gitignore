@@ -41,3 +41,6 @@
 *.gz
 mycv/cv.synctex.gz
 mycv/cv.fdb_latexmk
+*.pdf
+*.pdf
+*.gz
